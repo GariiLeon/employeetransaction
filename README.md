@@ -1,4 +1,4 @@
-HOST: https://polls.apiblueprint.org/
+HOST: https://transac-emp.herokuapp.com/
 
 # celaneotest
 
